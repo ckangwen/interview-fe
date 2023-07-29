@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "72f9f332aeaa937d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e0f408d022217a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdcda764fd3afba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS新增特性.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "848432d08867f7d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b537a8dd91d84114",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "303dacf5c4f1f7f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ccd585e91eda0b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1fc07a4c5d52ba1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5da2838d27f17d20",
+    "type": "split",
+    "children": [
+      {
+        "id": "85cbd6d888e889f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56a4e8eafd523153",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSS新增特性.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a79425315dee597",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CSS新增特性.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3b2a2a48aa68e1a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "513e275c4c5fab8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CSS新增特性.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "fdcda764fd3afba7",
+  "lastOpenFiles": [
+    "CSS3动画.md",
+    "cookie,localStorage,sessionStorage.md",
+    "隐藏元素的方式.md",
+    "事件循环.md",
+    "实现继承.md",
+    "如何实现下拉刷新和上拉加载.md",
+    "如何实现单行文本、多行文本溢出的省略样式.md",
+    "assets/Pasted image 20230722230010.png",
+    "assets/Pasted image 20230722225909.png",
+    "回流、重绘.md",
+    "如何判断一个元素是否在可视区域.md",
+    "AJAX实现原理.md",
+    "async, promise, yield.md",
+    "CSS提高性能的方法.md",
+    "em,px,rem,ch,vw的区别.md",
+    "flex-shrink, flex-grow, flex-basis.md",
+    "Grid布局.md",
+    "CSS新增特性.md",
+    "CSS实现滚动视差的效果.md",
+    "JS实现轮播图.md",
+    "CSS画一个三角形.md",
+    "CSS选择器优先级.md",
+    "？防抖和节流.md",
+    "？精度丢失问题.md",
+    "？web常见的攻击方式.md",
+    "大文件上传如何做断点续传.md",
+    "new操作符都做了什么.md",
+    "assets/Pasted image 20230722165739.png",
+    "assets/Pasted image 20230722165719.png",
+    "assets/3ccd1883e6434435b3662178f7bfee8f~tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
+    "assets/Pasted image 20230722163354.png",
+    "assets/957d454b02864754a0001afb5487d25c~tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
+    "assets/1368cfc0c44a4cc9b8e62b02eefbb0f7~tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
+    "assets/8e70bf2d5a2044b89cb3ea03a4534457~tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
+    "assets",
+    "assets/346c669d683b421db3608fd3ecb25be7~tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp"
+  ]
+}
