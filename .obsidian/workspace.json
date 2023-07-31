@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fdcda764fd3afba7",
+            "id": "5953e8fbcd6db571",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS新增特性.md",
+                "file": "？vue要做权限管理该怎么做？如果控制到按钮级别的权限怎么做？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d648b2883e51f27a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPA单页面模式的优缺点.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "202d955a24662b52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MVVM是什么.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS新增特性.md",
+                "file": "MVVM是什么.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS新增特性.md",
+                "file": "MVVM是什么.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS新增特性.md"
+                "file": "MVVM是什么.md"
               }
             }
           }
@@ -146,43 +171,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fdcda764fd3afba7",
+  "active": "202d955a24662b52",
   "lastOpenFiles": [
-    "CSS3动画.md",
-    "cookie,localStorage,sessionStorage.md",
+    "assets/156BF639.png",
+    "SPA单页面模式的优缺点.md",
+    "MVVM是什么.md",
+    "？vue要做权限管理该怎么做？如果控制到按钮级别的权限怎么做？.md",
+    "如何判断一个元素是否在可视区域.md",
+    "精度丢失问题.md",
+    "防抖和节流.md",
+    "XMLHttpRequest与fetch的区别.md",
+    "Vue3的设计目标，做了哪些优化.md",
+    "assets/0F834802.png",
+    "assets/0F81625A.png",
+    "ES6 Proxy & Reflect.md",
+    "new操作符都做了什么.md",
+    "this指向.md",
+    "scroll、client、offset、getBoundingClientRect.md",
+    "？JS实现轮播图.md",
+    "Grid布局.md",
+    "flex-shrink, flex-grow, flex-basis.md",
+    "em,px,rem,ch,vw的区别.md",
+    "CSS选择器优先级.md",
+    "CSS新增特性.md",
+    "CSS提高性能的方法.md",
+    "CSS实现滚动视差的效果.md",
+    "？CSS3动画.md",
+    "CSS画一个三角形.md",
+    "async, promise, yield.md",
     "隐藏元素的方式.md",
-    "事件循环.md",
-    "实现继承.md",
-    "如何实现下拉刷新和上拉加载.md",
-    "如何实现单行文本、多行文本溢出的省略样式.md",
+    "AJAX实现原理.md",
     "assets/Pasted image 20230722230010.png",
     "assets/Pasted image 20230722225909.png",
-    "回流、重绘.md",
-    "如何判断一个元素是否在可视区域.md",
-    "AJAX实现原理.md",
-    "async, promise, yield.md",
-    "CSS提高性能的方法.md",
-    "em,px,rem,ch,vw的区别.md",
-    "flex-shrink, flex-grow, flex-basis.md",
-    "Grid布局.md",
-    "CSS新增特性.md",
-    "CSS实现滚动视差的效果.md",
-    "JS实现轮播图.md",
-    "CSS画一个三角形.md",
-    "CSS选择器优先级.md",
-    "？防抖和节流.md",
-    "？精度丢失问题.md",
-    "？web常见的攻击方式.md",
-    "大文件上传如何做断点续传.md",
-    "new操作符都做了什么.md",
     "assets/Pasted image 20230722165739.png",
     "assets/Pasted image 20230722165719.png",
     "assets/3ccd1883e6434435b3662178f7bfee8f~tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
     "assets/Pasted image 20230722163354.png",
     "assets/957d454b02864754a0001afb5487d25c~tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
     "assets/1368cfc0c44a4cc9b8e62b02eefbb0f7~tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
-    "assets/8e70bf2d5a2044b89cb3ea03a4534457~tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
-    "assets",
-    "assets/346c669d683b421db3608fd3ecb25be7~tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp"
+    "assets"
   ]
 }
