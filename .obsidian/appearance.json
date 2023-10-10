@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "interfaceFontFamily": "霞鹜文楷",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "cssTheme": "Border",
+  "translucency": false,
+  "baseFontSize": 18
 }
